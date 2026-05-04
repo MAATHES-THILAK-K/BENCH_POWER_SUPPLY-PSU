@@ -2,7 +2,7 @@
 
 ## 🖼 Latest Build Preview
 
-![Real Build](https://github.com/MAATHES-THILAK-K/BENCH_POWER_SUPPLY-PSU/blob/main/IMAGES/IMG_20260504_155632.jpg.jpeg)  
+![Real Build](https://raw.githubusercontent.com/MAATHES-THILAK-K/BENCH_POWER_SUPPLY-PSU/main/IMAGES/IMG_20260504_155632.jpg.jpeg)
 ![ISO View](https://github.com/MAATHES-THILAK-K/BENCH_POWER_SUPPLY-PSU/blob/main/IMAGES/ISO_NEW.png)
 
 ---
